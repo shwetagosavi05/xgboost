@@ -1,1 +1,1 @@
-# xgboost
+# cardio dataset using logistic regression
